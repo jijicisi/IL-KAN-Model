@@ -1,1 +1,1 @@
-# IL-KAN-Model
+This repository contains the implementation of a customized deep learning model (IL-KAN) for optimizing hydrological parameters in flood forecasting. Based on incremental learning principles and leveraging the powerful function-fitting capabilities of the Kolmogorov–Arnold Network (KAN), this model is specifically designed to enhance the efficiency and accuracy of hydrological model parameter calibration.
